@@ -16,7 +16,7 @@ There is no configuration present in this software.
 
 ## Usage
 
-Currently there these workflows which can be reused:
+Currently there are these workflows which can be reused:
 
 * phpstan
 * php-cs-fixer
